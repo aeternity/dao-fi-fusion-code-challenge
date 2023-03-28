@@ -57,12 +57,12 @@ All prizes are paid in Æ coins.
 
 During the hackathon there will be so-called checkpoint events where the whole community including the hackathon participants is invited to join!
 
-| Date | Time (CEST) | Title |
-|---|---|---|
-| Tue, 28.03.2023 | to be announced | **Ready, set, CODE!** / Innovate for æternity |
-| Tue, 11.04.2023 | to be announced | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified |
-| Tue, 02.05.2023 | to be announced | **Hæckers' Hangout** / Relax & Enjoy! |
-| Thu, 11.05.2023 or Fri, 12.05.2023 | to be announced | **The final PUSH** / What's next? |
+| Date | Time (CEST) | Title | Links |
+|---|---|---|---|
+| Tue, 28.03.2023 | 3 - 5 PM | **Ready, set, CODE!** / Innovate for æternity | [Virtual Meeting](https://meet.jit.si/moderated/f6b062879c1a6dea66da325620d1548822c2a43f5a18aeda38b092ab6949aabd) |
+| Tue, 11.04.2023 | to be announced | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified | - |
+| Tue, 02.05.2023 | to be announced | **Hæckers' Hangout** / Relax & Enjoy! | - |
+| Thu, 11.05.2023 or Fri, 12.05.2023 | to be announced | **The final PUSH** / What's next? | - |
 
 # Technical Reviews: Feedback from experienced æternity contributors!
 
