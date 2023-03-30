@@ -57,9 +57,11 @@ All prizes are paid in Æ coins.
 
 During the hackathon there will be so-called checkpoint events where the whole community including the hackathon participants is invited to join!
 
-| Date | Time (CEST) | Title | Links |
+The hackathon organizers will sent out reminders for each checkpoint in advance via DevPost, so make sure to register to the hackathon there!
+
+| Date | Time (CEST) | Title | Slides |
 |---|---|---|---|
-| Tue, 28.03.2023 | 3 - 5 PM | **Ready, set, CODE!** / Innovate for æternity | [Virtual Meeting](https://meet.jit.si/moderated/f6b062879c1a6dea66da325620d1548822c2a43f5a18aeda38b092ab6949aabd) |
+| Tue, 28.03.2023 | 3 - 5 PM | **Ready, set, CODE!** / Innovate for æternity | • [Key Takeaways](./slides/checkpoint1/CP1-0_key-takeaways.pdf) <br /> • [Hackathon Overview](./slides/checkpoint1/CP1-1_hackathon_overview.pdf) <br /> • [æternity intro & Code Challenge](./slides/checkpoint1/CP1-2_%C3%A6ternity-intro_code-challenge.pdf) <br /> • [Open Source Philisophy](./slides/checkpoint1/CP1-3_open-source-philosophy.pdf) <br /> • [DevTools & Token Standards](./slides/checkpoint1/CP1-4_devtools_and_token-standards.pdf) |
 | Tue, 11.04.2023 | to be announced | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified | - |
 | Tue, 02.05.2023 | to be announced | **Hæckers' Hangout** / Relax & Enjoy! | - |
 | Thu, 11.05.2023 or Fri, 12.05.2023 | to be announced | **The final PUSH** / What's next? | - |
