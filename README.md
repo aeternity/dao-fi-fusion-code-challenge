@@ -59,10 +59,10 @@ During the hackathon there will be so-called checkpoint events where the whole c
 
 The hackathon organizers will sent out reminders for each checkpoint in advance via DevPost, so make sure to register to the hackathon there!
 
-| Date | Time (CEST) | Title | Slides |
+| Date | Time (CEST) | Title | Content |
 |---|---|---|---|
 | Tue, 28.03.2023 | 3 - 5 PM | **Ready, set, CODE!** / Innovate for æternity | • [Key Takeaways](./slides/checkpoint1/CP1-0_key-takeaways.pdf) <br /> • [Hackathon Overview](./slides/checkpoint1/CP1-1_hackathon_overview.pdf) <br /> • [æternity intro & Code Challenge](./slides/checkpoint1/CP1-2_%C3%A6ternity-intro_code-challenge.pdf) <br /> • [Open Source Philisophy](./slides/checkpoint1/CP1-3_open-source-philosophy.pdf) <br /> • [DevTools & Token Standards](./slides/checkpoint1/CP1-4_devtools_and_token-standards.pdf) |
-| Tue, 11.04.2023 | 3 - 3:45 PM | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified | - |
+| Tue, 11.04.2023 | 3 - 3:45 PM | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified | [Slides](./slides/checkpoint2/CP2_DAO-meets-DeFi.pdf) |
 | Tue, 02.05.2023 | to be announced | **Hæckers' Hangout** / Relax & Enjoy! | - |
 | Fri, 12.05.2023 | to be announced | **The final PUSH** / What's next? | - |
 
