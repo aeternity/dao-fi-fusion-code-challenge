@@ -50,8 +50,8 @@ All prizes are paid in Æ coins.
 | 14.05.2023 | **Submission Deadline** | Complete the submission form **BEFORE** 6:00 PM CEST |
 | 15.05.2023 - 19.05.2023 | **Technical Reviews** | Experienced æternity contributors will perform a technical review and the results determine the winners of the best 5 technical implementations. |
 | 22.05.2023 - 24.05.2023 | **Judging** | The judges will rate the submissions according to the judging criteria and the combined results will determine the 3 main winners. |
-| 25.05.2023 | **Community Live Event** | Announcement of the winners. Pitch your solution in 3 minutes and convince the community to vote for your submission in the Community Award poll! |
-| 25.05.2023 - 26.06.2023 | **Community Award: Voting** | A poll will be created in the æternity Forum. It will be open for 24 hours and the submission which receives the most votes wins the Community Award! |
+| 25.05.2023 | **Community Live Event** | Begin: 1:30 PM CEST<br />End: 3:30 PM CEST (approximately)<br /><br />Announcement of the winners.<br /><br />Pitch your solution in 3 minutes and convince the community to vote for your submission in the Community Award poll! |
+| 25.05.2023 - 26.05.2023 | **Community Award: Voting** | A poll will be created in the æternity Forum. It will be open for 24 hours and the submission which receives the most votes wins the Community Award! |
 
 ## Checkpoint Events
 
@@ -64,7 +64,7 @@ The hackathon organizers will sent out reminders for each checkpoint in advance 
 | Tue, 28.03.2023 | 3 - 5 PM | **Ready, set, CODE!** / Innovate for æternity | • [Key Takeaways](./slides/checkpoint1/CP1-0_key-takeaways.pdf) <br /> • [Hackathon Overview](./slides/checkpoint1/CP1-1_hackathon_overview.pdf) <br /> • [æternity intro & Code Challenge](./slides/checkpoint1/CP1-2_%C3%A6ternity-intro_code-challenge.pdf) <br /> • [Open Source Philisophy](./slides/checkpoint1/CP1-3_open-source-philosophy.pdf) <br /> • [DevTools & Token Standards](./slides/checkpoint1/CP1-4_devtools_and_token-standards.pdf) |
 | Tue, 11.04.2023 | 3 - 3:45 PM | **DAO meets DeFi!** / Keep your DAO treasury safe and diversified | [Slides](./slides/checkpoint2/CP2_DAO-meets-DeFi.pdf) |
 | Tue, 02.05.2023 | 3 - 3:45 PM | **Hæckers' Hangout** / Relax & Enjoy! | - |
-| Fri, 12.05.2023 | to be announced | **The final PUSH** / What's next? | - |
+| Fri, 12.05.2023 | 3 - 3:45 PM | **The final PUSH** / What's next? | - |
 
 # Technical Reviews: Feedback from experienced æternity contributors!
 
