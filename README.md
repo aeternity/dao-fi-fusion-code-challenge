@@ -31,7 +31,7 @@ All prizes are paid in Æ coins.
 | 2nd place | $15,000 | [NeuralDAOs](https://devpost.com/software/neuraldaos) | to be executed |
 | 3rd place | $7,500 | [Reflex Protocol](https://devpost.com/software/reflex-protocol) | to be executed |
 | The 5 best technical implementations | $1,000 (each) | • [NeuralDAOs](https://devpost.com/software/neuraldaos)<br /> • [SmartDAO](https://devpost.com/software/smartdao)<br /> • [DPAY](https://devpost.com/software/dpay-a-dao-platform-on-aeternity)<br /> • [Reflex Protocol](https://devpost.com/software/reflex-protocol)<br /> • [Træsury](https://devpost.com/software/traesury) | to be executed |
-| Community Award | $2,500 | to be announced | to be executed |
+| Community Award | $2,500 | [NeuralDAOs](https://devpost.com/software/neuraldaos) | to be executed |
 | | | | |
 | Total | $50,000 | | |
 
