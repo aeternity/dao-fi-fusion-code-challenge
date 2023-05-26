@@ -21,22 +21,17 @@ Make yourself familiar with the technology and take this unique opportunity to:
 - **improve** your developer skills & become an **expert** in writing **Smart Contracts** in **Sophia**
 - win the main prize of **$20,000**!
 
-# Sign up now!
-The code challenge is hosted via DevPost and you can sign up here:
-- https://dao-fi-fusion-code-challenge.devpost.com
-
-
 # Prizes
 
 All prizes are paid in Æ coins.
 
-| Type | Prize | Winners | Payout |
+| Type | Prize | Winner | Payout |
 |---|---|---|---|
-| **1st place** | **$20,000** | to be announced |  |
-| 2nd place | $15,000 | to be announced |  |
-| 3rd place | $7,500 | to be announced |  |
-| The 5 best technical implementations | $1,000 (each) | to be announced |  |
-| Community Award | $2,500 | to be announced |  |
+| **1st place** | **$20,000** | [DPAY - A DAO Platform on Æternity](https://devpost.com/software/dpay-a-dao-platform-on-aeternity) | to be executed |
+| 2nd place | $15,000 | [NeuralDAOs](https://devpost.com/software/neuraldaos) | to be executed |
+| 3rd place | $7,500 | [Reflex Protocol](https://devpost.com/software/reflex-protocol) | to be executed |
+| The 5 best technical implementations | $1,000 (each) | • [NeuralDAOs](https://devpost.com/software/neuraldaos)<br /> • [SmartDAO](https://devpost.com/software/smartdao)<br /> • [DPAY](https://devpost.com/software/dpay-a-dao-platform-on-aeternity)<br /> • [Reflex Protocol](https://devpost.com/software/reflex-protocol)<br /> • [Træsury](https://devpost.com/software/traesury) | to be executed |
+| Community Award | $2,500 | to be announced | to be executed |
 | | | | |
 | Total | $50,000 | | |
 
@@ -76,6 +71,11 @@ Once the technical review is finished, the judges will screen and judge the subm
 
 Every project gets the chance to pitch its solution in the Community Event to the community. This is also the place where in the beginning the 3 main winners will be announced. Be prepared and convince the community to vote for your submission in the Community Award poll!
 
+Check out the slides of the event by following this link:
+
+- [Community Live Event (Slides)](./slides/community-live-event/community_live_event.pdf)
+
+
 # Submission Requirements
 
 Build an application that allows users to create and manage DAOs (powered by Sophia Smart Contracts) with their Superhero Wallet at least on æternity testnet (preferably also mainnet) via an user interface.
@@ -110,4 +110,8 @@ The quality of the project presentation and how well the team communicates the i
 
 # Questions?
 
-Join [Discord](https://discord.gg/55f8F2jZq4) and/or the official [Forum](https://forum.aeternity.com/) to get in touch with the organizers and developers!
+Join [Discord](https://discord.gg/55f8F2jZq4) and/or the [Forum](https://forum.aeternity.com/) to get in touch with the organizers and developers!
+
+# Thank you!
+The code challenge was hosted via DevPost. You can explore all details here:
+- https://dao-fi-fusion-code-challenge.devpost.com
